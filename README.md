@@ -1,9 +1,9 @@
 # BeSimpleSoap
 
-Build SOAP and WSDL based web services
-
-# Components
-
+Build SOAP and WSDL based web services.
+```sh
+This fork version changes zendframework/zend-mime: 2.1.* dependency to 2.2.*
+```
 BeSimpleSoap consists of five components ...
 
 ## BeSimpleSoapBundle
